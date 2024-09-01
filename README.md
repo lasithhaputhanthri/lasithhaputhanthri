@@ -32,9 +32,6 @@ A project aimed at developing smart irrigation solutions, funded by UBLC World B
 - **Sri Lanka IEEE Challenge Sphere Arduino Winner**: Arduino Challenge winner with the project "REPLACE: Smart Wall Socket" alongside Dinujaya and Yasiru Basnayake.
 - **UBLC World Bank Funded Project**: HydroLink, a smart irrigation system.
 
-### 📊 GitHub Stats
-![Lasith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasithhaputhanthri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lasithhaputhanthri&layout=compact&theme=radical)
 
 ### ✨ Fun Fact
 I love experimenting with new technologies and always look for exciting projects to work on!
