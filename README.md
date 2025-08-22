@@ -13,8 +13,8 @@
 - **Version Control**: Git, GitHub
 
 ### 🔗 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/lasith-haputhanthri-b2919a265/))
-- [Personal Website](https://your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/lasith-haputhanthri-b2919a265/)
+- [Personal Website](https://www.lasithhaputhanthri.live/)
 
 ### 🌟 Featured Projects
 
