@@ -14,7 +14,7 @@
 
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lasith-haputhanthri-b2919a265/)
-- [Personal Website](https://www.lasithhaputhanthri.live/)
+- [Personal Website](https://lasithhaputhanthri.github.io/My-Portfolio/#Portfolio)
 
 ### 🌟 Featured Projects
 
